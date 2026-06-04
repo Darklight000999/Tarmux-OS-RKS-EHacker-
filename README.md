@@ -1,74 +1,92 @@
-# NETXECURE QUANTUM FRAMEWORK
+🚀 NETXECURE QUANTUM FRAMEWORK
 
-Advanced Cyberpunk Styled Termux Framework For Android Devices.
+<p align="center"><img src="https://img.shields.io/badge/Version-9.0-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Platform-Termux-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Developer-RKS%20EHacker-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"></p>---
 
-Developed By RKS EHacker
+<p align="center">⚡ ADVANCED CYBERPUNK TERMUX FRAMEWORK ⚡
 
----
-
-Preview
-
+</p>[1;36m
 ███╗   ██╗███████╗████████╗██╗  ██╗
 ████╗  ██║██╔════╝╚══██╔══╝╚██╗██╔╝
 ██╔██╗ ██║█████╗     ██║    ╚███╔╝
 ██║╚██╗██║██╔══╝     ██║    ██╔██╗
 ██║ ╚████║███████╗   ██║   ██╔╝ ██╗
 ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
+[0m
 
----
+<p align="center">🔥 Developed By : RKS EHacker
 
-Features
+👤 Username : NetXecure
 
-- Advanced Interactive Terminal UI
-- Cyberpunk Hacker Theme
-- AI Styled Command Terminal
-- Quantum Security Vault
-- File Encryption / Decryption
-- RAM Optimization
-- Network Toolkit
-- Plugin System
-- Backup Engine
-- System Information Dashboard
-- Matrix Effect
-- Auto Logging System
-- Custom Prompt Engine
-- ZSH & Bash Support
-- Fast Package Installer
-- Secure Password Hashing
-- Quantum Styled Framework
+</p>---
 
----
+🌟 FEATURES
 
-Installation
+<table>
+<tr>
+<td>⚡ Cyberpunk UI</td>
+<td>🔐 Security Vault</td>
+</tr><tr>
+<td>🧠 AI Terminal</td>
+<td>📦 Auto Package Installer</td>
+</tr><tr>
+<td>🛡 AES-256 Encryption</td>
+<td>🌐 Network Toolkit</td>
+</tr><tr>
+<td>💾 Backup Engine</td>
+<td>🚀 RAM Booster</td>
+</tr><tr>
+<td>🎨 Hacker Themes</td>
+<td>📊 System Dashboard</td>
+</tr><tr>
+<td>🧩 Plugin Manager</td>
+<td>💻 Matrix Mode</td>
+</tr>
+</table>---
 
-Step 1
+📥 INSTALLATION
+
+🔹 Update Packages
 
 pkg update -y && pkg upgrade -y
 
-Step 2
+---
+
+🔹 Install Git
 
 pkg install git -y
 
-Step 3
+---
+
+🔹 Clone Repository
 
 git clone https://github.com/NetXecure/NetXecure-Quantum
 
-Step 4
+---
+
+🔹 Open Folder
 
 cd NetXecure-Quantum
 
-Step 5
+---
+
+🔹 Give Permission
 
 chmod +x quantum.sh
 
-Step 6
+---
+
+🔹 Launch Framework
 
 bash quantum.sh
 
 ---
 
-Main Menu
+🖥 MAIN MENU
 
+[1;32m
 [01] Full Quantum Setup
 [02] AI Interactive Terminal
 [03] Security Vault
@@ -84,36 +102,17 @@ Main Menu
 [13] Update Framework
 [14] About
 [00] Exit
+[0m
 
 ---
 
-Modules
+⚙ MODULES
 
-Quantum Setup
+🧠 AI TERMINAL
 
-Installs all required packages automatically.
+Interactive terminal with built-in commands.
 
-Includes:
-
-- git
-- python
-- zsh
-- ruby
-- curl
-- nmap
-- hydra
-- cmatrix
-- neofetch
-- openssh
-- and many more.
-
----
-
-AI Terminal
-
-Interactive command environment.
-
-Commands:
+Commands
 
 help
 scan
@@ -123,157 +122,156 @@ exit
 
 ---
 
-Security Vault
+🔐 SECURITY VAULT
 
-Quantum password protection system using SHA256 hashing.
+Quantum password security system using SHA256 hashing.
 
-Features:
+Features
 
-- Secure Hash Storage
-- Password Verification
-- Protected Access
-
----
-
-File Encryptor
-
-Encrypt files using AES-256 encryption.
-
-openssl enc -aes-256-cbc
+- Password Hashing
+- Secure Access
+- Vault Verification
+- Quantum Protection
 
 ---
 
-Network Toolkit
+🛡 FILE ENCRYPTION
+
+Encrypt files using military-grade AES-256 encryption.
+
+Encrypt
+
+openssl enc -aes-256-cbc -salt -in file.txt -out file.enc
+
+Decrypt
+
+openssl enc -aes-256-cbc -d -in file.enc -out output.txt
+
+---
+
+🌐 NETWORK TOOLKIT
 
 Includes:
 
-- Ping Scanner
-- Port Scanner
+- Ping Test
+- Port Scan
 - DNS Lookup
+- Host Detection
 
 ---
 
-Backup Engine
+💾 BACKUP ENGINE
 
-Creates:
+Automatically creates:
 
 - Bash Backup
 - ZSH Backup
-- Full Home Backup
+- Home Backup
 
-Stored Inside:
+Backup Location
 
 ~/.netxecure/backups
 
 ---
 
-Folder Structure
+📂 PROJECT STRUCTURE
 
-.netxecure/
-├── backups/
+NetXecure-Quantum/
+│
+├── quantum.sh
+├── README.md
+│
 ├── logs/
 ├── plugins/
-└── .vault
+├── backups/
+│
+└── assets/
 
 ---
 
-Requirements
+📊 SYSTEM REQUIREMENTS
 
-- Android Device
-- Termux Latest Version
-- Internet Connection
-- Minimum 1GB Storage Recommended
-
----
-
-Supported Platforms
-
-- Android 8+
-- Termux
-- Kali Nethunter (Partial)
+Requirement| Value
+Platform| Android
+App| Termux
+RAM| 2GB+
+Storage| 1GB+
+Internet| Required
 
 ---
 
-Security Notice
+🎨 SCREENSHOTS
 
-This tool is made for:
+🔥 Dashboard
 
-- Educational Purposes
-- Learning Linux
-- Ethical Security Testing
-- Personal Customization
+[1;36m
+╔════════════════════════════════╗
+║   NETXECURE QUANTUM PANEL     ║
+╚════════════════════════════════╝
+[0m
+
+---
+
+🚀 FUTURE UPDATES
+
+- 🤖 Voice Assistant
+- ☁ Cloud Backup
+- 🔑 Fingerprint Lock
+- 📡 Remote Access
+- 🛰 Live Monitoring
+- 🌑 Dark Web Toolkit
+- 🎮 GUI Dashboard
+
+---
+
+⚠ DISCLAIMER
+
+«This framework is made only for:
+
+- Educational Purpose
+- Ethical Learning
+- Linux Practice
+- Personal Customization»
 
 Do not use illegally.
 
 ---
 
-Screenshots
+👨‍💻 AUTHOR
 
-Add Your Screenshots Here:
-
-screenshots/
-
----
-
-Future Updates
-
-Planned Features:
-
-- Voice Assistant
-- Face Lock
-- Cloud Backup
-- Remote Shell
-- Live Monitoring
-- GPU Information
-- Dark Web Toolkit
-- Advanced Plugin Store
-- Fingerprint Authentication
-- Online Update API
+INFO| DETAILS
+Developer| RKS EHacker
+Username| NetXecure
+Framework| NetXecure Quantum
+Version| 9.0
 
 ---
 
-Author
-
-Developer : RKS EHacker
-
-Username : NetXecure
-
----
-
-Version
-
-Version : 9.0 Quantum
-
----
-
-License
+📜 LICENSE
 
 MIT License
 
-Free To Use & Modify.
+Free To Modify & Share.
 
 ---
 
-Support
+❤️ SUPPORT
 
-If you like this project then support the development.
-
----
-
-Disclaimer
-
-This framework is created for educational and ethical purposes only.
-
-The developer is not responsible for misuse.
+If you like this project then give it a ⭐ on GitHub.
 
 ---
 
-Launch Command
+🚀 QUICK START
 
+pkg update -y && pkg upgrade -y
+pkg install git -y
+git clone https://github.com/NetXecure/NetXecure-Quantum
+cd NetXecure-Quantum
+chmod +x quantum.sh
 bash quantum.sh
 
 ---
 
-Thank You
+<p align="center">🔥 THANKS FOR USING NETXECURE QUANTUM 🔥
 
-Thanks For Using NetXecure Quantum Framework.
+</p>
